@@ -1,0 +1,1 @@
+The code is to evaluate paragraphs based on ROUGE algorithm and then use it's output parameters to train an SVM classifier. I use sigma and C values corresponding to the highest F-score. I have received an F-score of 0.87 on my cross-validation set.
