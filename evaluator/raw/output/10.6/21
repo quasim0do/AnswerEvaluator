@@ -1,0 +1,1 @@
+ You traverse all the nodes to the left, then visit the root, then traverse all the nodes on the right.

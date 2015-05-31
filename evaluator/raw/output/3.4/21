@@ -1,0 +1,1 @@
+ Gives the called function the ability to access and modify the caller's argument data directly.

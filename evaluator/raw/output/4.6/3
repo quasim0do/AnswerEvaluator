@@ -1,0 +1,1 @@
+ Using an index outside the bounds of the array generates a run-time error.

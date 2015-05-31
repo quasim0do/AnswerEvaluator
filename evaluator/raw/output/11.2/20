@@ -1,0 +1,1 @@
+ public - can be accessed by any of the programprivate - can only be accessed by the class functions themselves and no outside functions or calls

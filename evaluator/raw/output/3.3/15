@@ -1,0 +1,1 @@
+ Inline functions are copied in place, instead of being referenced.

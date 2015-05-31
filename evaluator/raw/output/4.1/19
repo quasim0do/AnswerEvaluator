@@ -1,0 +1,1 @@
+ Supply an integer inside the bracketsor the compiler counts the number of elements in the initializer list.int n[5];int n[] = { 1,2,3,4,5 }

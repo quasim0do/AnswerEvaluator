@@ -1,0 +1,1 @@
+ Keep track of the front and rear indexes. Either:1)Dequeue items by shifting the array left2)Use wrapped configuration

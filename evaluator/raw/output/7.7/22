@@ -1,0 +1,1 @@
+ 1- each node requires an extra pointer, requiring more space2- the insertion or deletion of a node takes a bit longer, more pointer operations

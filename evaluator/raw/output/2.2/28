@@ -1,0 +1,1 @@
+ local variables are accessed inside member functions only while data members can be accessed throughout the class

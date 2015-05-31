@@ -1,0 +1,1 @@
+ A queue is more appropriate, because the clients which have waited the longest should be the first served.

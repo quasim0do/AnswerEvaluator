@@ -1,0 +1,1 @@
+ Explicitly int array[10];or by variableconst int size = 10;int array[size];

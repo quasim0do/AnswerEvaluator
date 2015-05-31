@@ -1,0 +1,1 @@
+ A recursive function typically simplifies a problem by calling itself, until arriving at a base case, at which it recursively returns a solution.

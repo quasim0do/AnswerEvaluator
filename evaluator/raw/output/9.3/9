@@ -1,0 +1,1 @@
+ Declare two variables, â€œfrontâ€ and â€œrearâ€, to be used to denote which elements in the array can be accessed. Increment â€œrearâ€ whenever data is enqueued to the end and increment â€œfrontâ€ whenever data is dequeued.

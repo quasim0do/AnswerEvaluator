@@ -1,0 +1,1 @@
+ isEmptry()//determines if the stack is full or notpop()//to remove the top element if it is not the on you are looking forsearch()//you compare each element of the stack to the data you are looking for.

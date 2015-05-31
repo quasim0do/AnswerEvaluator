@@ -1,0 +1,1 @@
+ Travel from the root to the farthest left childBackup, travel the leftmost children in the right siderepeat until reaching the rightmost child.

@@ -1,0 +1,1 @@
+ a static array is one that keeps its values and is not initialized every time a class function is called, it's data is not lost at function end.

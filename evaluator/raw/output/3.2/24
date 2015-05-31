@@ -1,0 +1,1 @@
+ If a variable is declared global, any function or class can use that variable.

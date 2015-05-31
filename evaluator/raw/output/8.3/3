@@ -1,0 +1,1 @@
+ If you use a dynamically allocated array, you must provide a destructor and copy constructor.

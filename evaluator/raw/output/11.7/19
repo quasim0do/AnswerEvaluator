@@ -1,0 +1,1 @@
+ A static array retains any modified values after a function call.Automatic arrays reset to their initial values when the function ends.

@@ -1,0 +1,1 @@
+       temp-&gt;next= NULL;      if (front)  { (rear) -&gt; next= temp;}      else front = temp;      rear = temp;   }

@@ -1,0 +1,1 @@
+ When an operand is entered, the computerPushes it onto a stackWhen an operator is entered, the computerApplies it to the top two operands of the stackPops the operands from the stackPushes the result of the operation onto the stack

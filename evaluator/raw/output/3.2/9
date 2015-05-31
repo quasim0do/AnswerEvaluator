@@ -1,0 +1,1 @@
+ Global variables have file-scope.  The variable is know to all functions throught the file

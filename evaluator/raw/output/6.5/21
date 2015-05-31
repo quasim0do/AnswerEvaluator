@@ -1,0 +1,1 @@
+ It returns the size of an operand in memory, which is checked at compiler-time.
